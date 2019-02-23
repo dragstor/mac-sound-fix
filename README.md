@@ -55,3 +55,6 @@ After the successful daemon restart, the app closes on itself and you're done :b
 
 
 ![Done](https://i.imgur.com/UP3STlp.png)
+
+## Licensing
+This software is released under the [GPL-3.0](https://github.com/dragstor/mac-sound-fix/blob/master/LICENSE)
