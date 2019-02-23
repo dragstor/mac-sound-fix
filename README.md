@@ -1,3 +1,4 @@
+![Maintenance](https://img.shields.io/maintenance/yes/2019.svg) ![GitHub release](https://img.shields.io/github/release/dragstor/mac-sound-fix.svg) ![GitHub All Releases](https://img.shields.io/github/downloads/dragstor/mac-sound-fix/total.svg) ![Website](https://img.shields.io/website-up-down-green-red/https/lingur.pro.svg) 
 # :mute: Mac Sound Re-Enabler :bowing_man:
 
 Simple stupid app used to fix the sound issues (read below) while using an external HDMI monitor on macOS for video only.
